@@ -7,7 +7,10 @@ Estas imágenes se encuentran en la carpeta llamada "graficas". Adicionalmente, 
 Este material se encuentra en la carpeta llamada "Script".
 
 <b>Nota: </b> En este repositorio se excluyen las gráficas relacionadas con la medición a 1 kHz cuando el receptor está oscilando, ya que estas gráficas se detallan en el informe.
-Este repositorio cuenta con material complementario al informe.
+Este repositorio cuenta con material complementario al informe. Puede consultarlo a través del siguiente link:
+<a href="https://drive.google.com/file/d/104tOY3pgFpyHJg0h34MvPC0PAgKBdU4c/view?usp=sharing">Ir al Informe</a>.
+
+
 <hr />
 
   
